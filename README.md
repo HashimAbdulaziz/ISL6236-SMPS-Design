@@ -116,5 +116,5 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 ## Contact
 
 For inquiries or collaboration opportunities, reach out via:
-- Email: [your-email@example.com](hashimzezo222@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/hashim-abdulaziz-095b68281)
+- Email: [hashimzezo222@gmail.com](hashimzezo222@gmail.com)
+- LinkedIn: [www.linkedin.com/in/hashim-abdulaziz-095b68281](www.linkedin.com/in/hashim-abdulaziz-095b68281)
